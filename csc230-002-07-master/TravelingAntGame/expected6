@@ -1,0 +1,659 @@
+0 0 1 0 4 1 1 1 4 1 1 1 1 4 0 4 0 1 4 1 1 4 1 4 4 1 1 0 1 1 1 4 0 1 1 4 4 1 0 1 0 4 4 1 1 1 4 1 1 1 4 4 1 1 1 4 1 1 1 1 1 1 0 1 4 1 0 4 1 4 4 1 1 1 1 1 4 1 1 0 1 4 4 1 1 4 4 4 4 1 1 1 1 0 1 1 1 1 0 1
+0 1 1 0 0 0 1 1 4 1 1 4 0 0 1 1 1 1 1 1 1 1 4 1 1 0 1 4 1 4 1 0 0 1 4 4 1 1 1 4 1 1 4 1 1 1 1 4 0 4 1 1 0 1 1 1 1 1 1 1 1 1 4 4 1 1 4 0 1 4 1 1 1 0 1 1 1 1 4 1 1 1 4 0 1 0 1 4 1 1 1 0 4 1 1 1 1 1 4 1
+1 1 1 1 0 1 1 1 4 1 4 1 1 1 4 1 0 0 4 0 1 1 4 4 0 0 4 1 1 1 1 1 0 1 1 4 1 1 1 1 4 4 1 4 4 4 1 1 1 4 1 4 1 1 1 4 1 1 1 1 0 1 0 1 0 4 1 0 1 1 0 4 1 1 4 0 4 4 1 0 1 1 1 1 0 1 1 1 1 1 1 0 1 1 4 1 1 1 0 1
+1 0 4 1 1 1 1 4 4 4 4 1 0 0 4 1 1 1 1 1 4 0 0 0 1 1 1 1 1 4 1 4 1 0 0 1 1 1 1 0 1 4 0 1 1 1 1 1 0 1 4 1 0 4 1 0 0 1 0 1 4 0 0 4 0 4 1 1 1 1 4 1 4 4 1 0 0 4 4 4 4 1 0 1 4 0 1 0 0 1 0 1 1 4 1 0 1 1 0 1
+1 1 0 0 0 0 4 1 1 1 1 4 1 1 1 0 1 1 1 1 1 1 1 1 4 1 1 1 4 1 1 4 0 1 1 1 1 1 1 1 1 1 1 1 1 1 4 1 0 0 4 1 1 1 0 0 4 1 0 1 1 4 1 1 4 4 1 0 0 1 4 0 0 1 4 1 1 1 1 1 0 1 1 1 1 4 1 4 0 1 0 1 1 1 1 1 4 1 1 1
+1 0 1 1 4 0 0 0 0 1 4 0 4 1 0 4 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 0 1 1 4 0 1 4 4 0 1 4 1 4 1 0 1 1 1 1 1 1 1 0 1 1 1 1 0 1 1 0 1 4 1 1 0 1 1 1 1 1 0 4 1 1 1 1 0 1 1 0 4 1 0 4 1 0 0 1 1 1 1 1 0 1
+0 1 1 4 1 1 1 0 0 1 1 4 1 1 0 0 0 0 1 4 1 1 4 1 0 4 4 1 1 1 4 0 1 4 1 1 0 1 4 1 1 1 0 1 1 4 1 4 1 4 1 0 1 0 1 1 4 1 1 4 4 0 1 4 0 1 4 4 1 1 4 1 1 1 1 1 1 4 0 1 1 1 0 1 1 4 1 1 1 1 4 0 1 1 1 0 1 1 0 0
+4 1 1 0 0 4 0 0 1 1 1 1 0 1 4 1 4 0 1 0 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 4 1 0 1 1 4 4 1 1 4 1 1 1 4 1 0 1 1 4 1 1 0 1 0 0 0 0 4 0 1 4 0 1 0 1 1 1 4 0 1 1 1 1 4 1 0 1 1 1 1 1 1 1 0 0 0 0 1 1 4 1 1 1 1 1
+4 4 1 1 1 1 1 1 4 1 0 0 1 1 4 1 1 1 1 0 0 1 4 4 0 1 1 1 4 1 0 1 4 4 1 0 0 1 1 0 1 1 1 0 1 0 1 0 0 4 0 0 1 1 1 4 1 0 1 0 1 4 0 0 4 1 0 1 1 1 1 0 0 1 4 0 1 1 1 1 1 1 0 1 1 1 1 1 1 0 4 0 1 1 1 0 1 0 1 0
+0 1 4 4 0 1 1 1 1 4 1 4 4 1 4 0 1 1 4 4 1 1 1 4 1 3 1 4 0 4 1 1 1 0 1 0 4 1 0 0 4 0 1 1 0 1 1 1 4 4 0 1 4 0 4 0 4 0 1 4 4 4 1 4 1 0 1 4 4 0 1 1 1 1 0 4 1 1 1 1 1 1 1 4 1 4 1 4 0 0 1 1 1 1 0 1 1 1 0 1
+0 1 1 1 4 1 1 1 4 1 0 1 1 1 0 1 4 4 1 1 1 1 1 4 0 1 0 1 1 0 1 4 1 1 1 4 1 1 1 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0 4 0 0 4 0 1 1 4 0 4 0 0 0 0 1 0 1 1 1 1 1 1 1 1 0 0 4 0 1 0 1 0 4 1 1 4 1 1 1
+1 1 0 0 0 0 1 1 1 1 1 1 1 0 4 1 1 1 0 1 4 4 1 1 1 1 4 0 4 1 1 4 1 4 0 0 1 4 1 1 1 1 4 1 1 1 1 0 1 4 4 0 1 1 1 1 4 1 1 1 1 1 1 1 1 4 1 1 4 0 1 0 1 1 0 1 1 1 1 0 4 1 0 1 1 1 1 4 1 0 1 1 4 1 1 4 0 0 1 1
+0 1 1 1 1 0 4 0 1 4 1 0 4 1 0 4 1 1 4 1 0 4 4 1 0 1 1 1 1 1 1 1 1 4 1 4 1 0 1 1 1 4 4 1 1 1 0 1 1 1 4 1 1 1 0 1 4 0 1 1 1 4 1 1 1 1 0 1 1 0 1 4 1 4 0 1 0 1 4 1 1 1 1 1 1 1 0 0 1 1 4 1 4 0 1 4 1 0 0 1
+4 0 1 1 1 4 1 4 0 1 1 0 4 1 4 0 0 0 0 4 4 1 0 1 1 1 4 4 1 1 0 4 1 0 0 0 1 4 1 1 0 1 1 1 0 1 0 1 1 4 0 4 1 4 4 1 0 1 1 1 0 0 1 1 1 4 0 4 1 4 0 0 4 4 1 1 1 0 0 1 4 1 1 0 1 1 1 1 1 4 1 4 1 0 4 1 1 0 1 1
+1 1 1 0 4 1 4 0 4 1 1 1 1 0 1 1 4 1 1 1 0 4 1 1 1 1 0 4 1 1 1 1 1 1 1 1 0 4 0 4 1 4 1 1 1 0 1 1 1 4 1 1 1 4 1 1 1 0 4 1 1 4 1 4 4 0 4 1 1 1 1 1 0 1 1 1 0 1 4 1 1 0 1 1 0 1 1 0 1 1 1 4 1 1 1 0 0 4 1 1
+0 1 0 1 1 4 4 1 1 4 4 1 1 1 1 1 1 1 1 1 1 0 4 0 1 4 0 1 1 1 4 0 1 1 1 0 1 1 1 1 4 4 1 0 1 1 1 4 0 1 1 1 1 0 0 1 0 4 1 0 1 1 0 1 4 0 1 0 0 1 0 1 4 1 1 1 0 1 0 1 4 0 4 4 1 1 4 4 1 1 1 1 1 0 1 4 0 1 1 0
+1 1 4 1 1 0 1 1 1 1 1 4 1 4 1 1 0 4 1 0 0 0 0 1 4 1 4 4 1 1 0 1 1 1 1 1 1 0 1 1 0 1 4 1 0 4 1 1 1 1 0 1 1 0 1 1 0 0 4 1 0 1 1 1 1 1 1 1 1 4 1 1 0 1 1 1 1 1 0 0 0 4 0 1 1 1 1 1 4 4 0 0 1 0 0 1 0 0 1 0
+1 1 1 1 1 1 1 0 4 1 4 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 0 1 4 0 1 1 1 1 1 1 1 1 4 1 1 0 0 1 1 4 0 0 0 0 1 0 4 1 0 1 1 0 1 0 4 1 1 1 1 1 1 4 0 1 0 0 4 0 1 1 1 0 1 1 4 1 0 1 4 1 1 0 0 4 4 1 1 0 4 0 1 0 1
+4 0 1 1 1 1 4 4 1 1 4 1 1 4 0 1 1 0 4 0 1 1 4 4 1 1 1 1 1 0 0 1 1 1 1 0 1 4 4 1 1 1 1 1 4 1 1 1 1 4 4 0 1 1 1 1 1 4 1 0 1 0 0 1 0 1 1 0 1 4 4 1 0 0 0 1 1 0 1 1 4 1 1 0 1 1 1 1 1 0 0 4 1 1 0 4 1 0 1 1
+1 4 1 1 4 0 1 4 1 0 1 4 0 1 4 1 0 1 0 4 4 1 1 1 0 0 4 4 1 1 0 0 0 1 0 1 0 1 1 0 1 1 1 0 1 1 4 1 1 0 4 0 1 1 0 1 0 0 0 4 0 1 1 1 1 1 1 4 4 1 1 1 1 1 1 4 1 1 4 4 1 4 1 4 4 1 4 1 0 1 0 1 1 1 1 1 4 1 4 1
+1 1 1 1 1 1 1 1 4 0 4 1 1 0 1 4 1 0 1 0 1 0 4 4 1 0 4 0 0 1 4 1 1 0 1 1 1 1 0 0 1 1 0 4 1 1 1 4 1 1 1 1 1 0 1 0 4 1 1 1 1 1 1 4 1 4 1 1 1 0 1 1 1 0 1 1 0 1 0 0 0 1 4 1 1 0 4 1 1 1 1 1 4 4 1 4 1 4 1 0
+1 1 1 4 0 4 1 4 0 1 1 4 1 0 4 4 1 1 4 1 4 1 1 1 4 1 0 1 1 1 1 1 1 4 0 1 1 4 0 0 1 1 1 0 1 1 0 1 4 1 0 1 1 1 1 0 1 0 1 0 0 4 0 1 1 1 1 4 0 0 1 4 1 1 1 4 1 0 0 4 1 0 4 4 1 0 4 1 1 4 4 4 1 1 4 4 1 4 1 4
+1 0 1 0 1 1 1 0 1 1 1 4 1 0 1 1 1 1 1 1 1 1 4 1 1 1 0 1 1 4 1 4 1 1 1 0 1 4 1 1 0 1 0 1 1 1 1 1 1 1 1 4 1 1 1 0 0 0 4 1 4 1 1 1 1 1 1 1 1 1 1 1 1 4 1 4 4 1 0 1 4 4 0 1 1 0 1 1 0 1 1 1 1 1 0 1 0 1 4 1
+1 1 1 4 1 1 1 1 1 0 1 0 1 1 1 1 1 0 1 0 1 4 1 4 1 0 0 1 1 0 1 1 1 1 0 1 0 4 0 1 1 0 0 1 1 1 0 1 1 1 1 0 4 4 1 0 2 1 0 1 1 0 4 1 4 1 0 1 0 1 1 1 1 4 1 4 0 0 1 0 0 1 1 1 4 1 1 1 1 1 0 1 1 0 1 0 0 4 1 1
+1 0 1 1 1 4 1 0 1 0 1 1 0 1 1 0 1 4 1 1 0 0 1 1 1 1 0 4 1 1 1 1 1 4 4 1 1 1 1 1 1 1 1 0 1 4 1 0 4 1 0 4 4 1 4 0 4 1 1 1 0 4 4 0 1 1 1 1 1 1 1 1 4 1 1 1 1 0 0 0 4 4 1 1 4 0 0 1 1 4 0 4 1 1 1 1 0 0 1 1
+0 1 0 1 1 1 1 4 0 1 1 1 1 1 1 1 1 4 1 1 1 1 1 1 0 4 1 1 1 1 1 1 0 1 0 1 1 1 0 1 1 1 1 4 0 1 0 0 4 1 1 1 4 1 1 1 4 0 4 0 0 0 1 4 1 1 1 0 1 1 1 4 4 4 1 1 0 0 0 1 1 0 4 1 1 0 1 0 4 0 1 1 0 1 0 0 4 4 4 1
+4 0 4 1 1 0 1 1 4 1 1 1 1 4 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 0 1 1 0 1 0 0 1 1 0 4 0 0 1 1 4 1 0 4 4 0 1 1 1 1 0 4 1 1 0 0 1 0 1 4 1 1 4 1 0 1 1 1 4 1 1 1 1 1 0 1 0 0 1 1 0 0 4 1 1 1 0 1 4 0 0
+0 0 1 0 4 0 0 4 1 1 0 1 1 0 1 4 1 0 4 1 4 1 1 1 0 4 1 4 1 1 1 0 4 0 1 1 0 0 1 0 1 0 1 1 1 1 4 1 1 1 1 1 0 1 0 1 0 0 1 1 0 4 0 1 1 0 0 1 0 0 1 0 4 1 0 1 4 0 1 1 1 1 1 4 1 0 1 1 1 1 1 0 0 4 1 1 1 1 1 1
+0 1 0 1 1 1 1 4 0 1 1 4 0 1 4 0 1 1 4 1 0 1 1 4 4 1 1 0 1 1 1 1 4 1 1 0 0 1 4 1 1 1 1 0 1 4 4 1 1 4 4 1 4 4 4 1 1 4 0 1 1 1 1 1 1 4 1 0 1 0 4 1 0 0 4 1 1 1 1 1 4 4 1 1 1 1 1 1 0 1 1 1 1 4 1 1 4 0 1 0
+0 1 1 1 4 0 1 4 1 0 0 0 1 1 1 0 1 1 1 1 4 4 0 1 1 4 1 4 1 4 1 1 1 0 4 1 4 1 4 4 1 4 4 1 0 0 0 1 1 1 0 0 4 0 4 4 1 0 4 1 0 0 4 1 4 4 1 1 0 0 1 4 1 4 0 0 1 1 4 1 1 0 1 4 4 4 1 0 1 4 1 1 0 1 1 1 4 0 4 1
+1 0 1 1 1 0 4 0 4 4 1 4 1 0 1 0 1 0 1 0 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 4 0 0 4 0 1 1 1 4 0 4 0 1 1 1 1 1 1 0 1 1 0 1 4 4 0 0 4 0 1 0 1 1 1 4 0 1 1 0 4 4 0 1 1 0 1 0 0 0 0 1 4 4 0 1 1 1 1 1 1 1 0
+4 1 1 4 1 4 1 1 4 1 1 0 4 0 4 1 4 1 1 0 1 1 4 1 1 1 4 1 4 1 1 1 1 1 4 0 0 1 1 1 1 0 1 1 0 1 1 1 0 1 1 1 1 0 1 0 1 1 1 4 1 1 1 1 1 4 1 1 0 1 0 1 1 1 1 0 1 1 1 0 1 0 0 1 1 1 1 4 1 0 1 1 1 1 4 1 0 1 0 4
+1 4 1 0 4 1 4 4 1 0 0 1 1 1 1 1 4 4 0 0 1 0 1 0 1 1 1 0 1 4 1 1 1 1 1 4 4 0 4 1 4 1 0 1 4 1 1 4 0 1 1 4 0 0 1 0 0 1 4 0 1 1 1 1 1 1 0 0 1 1 4 4 1 4 1 1 0 1 1 0 1 1 1 1 4 1 1 1 1 1 1 1 1 1 1 4 1 1 0 1
+1 1 1 4 0 1 1 4 0 0 1 1 1 4 1 4 0 1 0 1 1 0 1 1 1 4 4 4 4 1 1 4 4 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 1 1 0 4 1 4 1 4 1 1 1 1 1 4 1 1 1 1 0 1 1 4 0 1 1 0 1 1 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 1 1 1 1 4 1
+4 1 4 1 1 0 1 1 1 4 1 1 0 0 1 0 4 0 1 1 1 1 1 1 1 1 4 1 4 1 1 1 1 1 4 1 0 1 1 1 4 1 1 1 1 1 1 1 0 1 1 1 1 4 1 0 0 0 1 0 1 1 0 1 0 1 1 0 1 4 1 4 1 1 1 4 1 1 1 0 0 4 0 0 1 1 0 1 1 4 4 1 0 0 1 4 1 4 1 1
+1 1 1 4 0 1 0 0 0 1 1 1 0 4 1 0 1 1 1 1 0 4 1 1 1 1 1 1 4 1 0 0 0 0 1 1 1 1 1 1 0 1 1 4 1 1 4 1 4 4 0 4 1 4 1 0 4 1 1 0 0 0 1 4 4 1 1 4 1 1 1 4 1 4 1 1 1 4 1 0 1 0 1 0 1 4 1 0 4 1 0 1 1 0 0 4 4 4 4 1
+1 1 1 1 0 0 4 1 0 4 0 0 1 1 1 4 0 0 1 1 1 0 0 1 1 4 1 4 4 4 1 1 1 0 4 1 4 1 1 1 0 1 1 1 1 0 1 1 0 0 1 4 4 1 1 4 1 1 1 1 4 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 1 1 4 4 1 4 4 1 4 4 4 0 1 1 1 1 0 0 4 4 1
+0 1 1 4 1 1 1 1 1 4 1 1 1 0 0 4 1 1 1 1 4 1 4 1 0 0 4 4 1 1 0 1 1 0 1 1 1 1 4 1 0 1 1 0 1 1 4 1 1 0 0 4 0 4 1 4 1 1 1 0 1 1 1 1 1 1 4 0 1 0 1 1 1 4 0 1 4 1 0 0 1 1 1 1 0 4 0 1 4 1 1 0 1 1 0 4 1 1 1 1
+1 1 1 4 1 4 4 4 0 1 1 1 1 0 1 4 1 1 1 1 4 1 0 1 1 4 1 1 0 1 4 0 4 0 4 0 1 1 1 1 4 4 1 1 1 0 1 4 0 1 4 1 1 1 4 1 1 1 0 4 1 1 1 0 1 1 1 4 0 4 1 4 1 1 0 1 1 1 1 4 4 0 1 1 4 4 1 1 1 1 1 4 1 1 1 4 0 4 1 0
+1 1 1 4 1 1 0 1 4 0 4 1 1 4 1 4 1 1 1 0 4 1 1 0 0 4 1 0 1 1 1 1 1 0 4 4 0 4 0 1 4 4 1 4 1 1 1 0 4 4 4 1 1 0 4 1 1 1 4 1 4 1 4 1 0 4 1 1 1 1 0 4 4 1 4 0 4 4 1 1 1 0 1 1 4 4 1 0 0 0 1 4 0 1 1 1 4 0 0 4
+0 0 1 1 1 1 1 0 1 4 0 1 4 0 4 1 1 0 1 1 4 1 1 1 1 0 4 0 4 4 1 4 1 1 0 1 0 1 1 1 1 0 4 4 0 1 4 1 1 4 0 1 1 4 4 1 1 1 1 1 4 4 4 1 0 0 4 0 0 1 0 4 1 1 1 1 0 1 1 1 1 1 1 4 4 1 1 0 0 0 0 1 1 4 4 1 1 1 1 1
+4 4 0 1 1 0 1 0 4 4 0 1 1 4 0 1 1 1 0 1 0 1 1 1 1 1 1 4 1 1 4 0 1 1 1 1 1 0 0 0 1 4 1 1 1 1 1 4 1 0 4 4 1 4 4 1 4 1 0 1 1 1 0 1 0 1 0 1 1 4 1 1 1 1 1 0 4 4 1 1 4 0 1 1 1 1 4 1 1 1 1 1 4 1 1 1 4 4 1 4
+0 4 0 1 1 1 1 4 0 1 1 1 0 1 4 1 1 1 4 1 1 0 4 4 1 1 1 0 0 1 1 1 1 1 1 0 0 4 1 4 4 1 0 0 1 1 1 1 1 4 1 1 1 0 0 0 1 0 1 1 4 1 1 4 1 4 0 1 1 1 1 1 0 1 0 0 1 0 1 1 1 1 1 1 0 1 1 1 1 0 4 0 0 1 1 1 4 0 0 1
+1 1 1 0 1 4 0 1 1 4 1 1 4 4 0 0 4 1 1 4 0 4 1 4 1 0 1 0 4 1 4 4 1 4 0 4 1 1 0 1 1 1 4 4 4 4 1 1 4 1 0 1 1 1 0 0 0 1 0 4 1 1 1 4 1 0 1 1 1 0 0 1 0 1 1 1 4 0 1 1 1 1 1 4 1 1 0 1 1 1 4 1 0 1 0 0 0 0 1 1
+1 1 1 1 1 1 1 1 1 0 1 1 4 1 1 0 0 4 1 1 1 4 1 0 1 1 0 1 1 1 4 0 1 4 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 4 1 1 0 1 0 1 1 1 1 0 1 4 0 1 4 1 4 4 1 1 1 4 4 1 0 0 4 0 1 1 1 4 0 0 1 4 1 1 1 1 0 1 1
+1 0 1 4 1 1 1 1 1 1 0 4 1 1 1 0 1 4 1 0 0 4 0 1 4 1 1 1 0 0 0 4 1 1 1 1 1 1 1 4 1 0 1 1 4 4 1 0 1 1 4 0 1 0 1 0 0 4 4 1 1 1 0 4 1 1 1 1 0 1 1 1 1 4 1 0 1 0 0 1 1 4 1 0 1 4 4 0 1 1 1 4 1 1 1 0 1 1 1 1
+1 1 1 4 0 4 1 0 1 1 1 1 4 4 1 4 1 0 1 0 0 1 4 1 1 0 1 1 0 0 4 1 1 1 1 1 4 1 1 0 1 1 0 1 0 0 4 0 4 1 0 0 1 4 1 1 1 0 4 1 4 1 1 1 1 1 1 0 1 1 1 1 4 1 1 1 0 4 0 0 1 4 1 1 1 1 1 1 1 1 0 1 4 1 4 0 4 0 1 1
+1 0 1 0 0 1 1 4 1 1 1 0 4 4 1 0 0 4 1 4 0 0 1 1 1 0 1 0 4 1 0 4 1 1 1 0 1 1 0 1 1 1 1 4 1 1 1 0 0 1 4 0 0 1 0 0 0 1 4 1 1 0 0 4 0 1 1 1 1 1 1 1 1 1 4 1 1 1 0 1 1 1 0 0 1 0 1 0 0 4 1 1 1 0 4 1 0 1 1 0
+1 1 0 1 4 0 1 1 1 1 1 1 4 1 0 1 0 4 1 4 1 1 4 4 1 1 1 1 1 1 4 1 4 1 0 1 4 0 0 4 1 1 4 1 0 1 1 4 1 1 1 4 1 0 1 4 1 1 1 1 1 1 4 4 0 1 0 1 4 0 1 4 1 1 1 0 1 4 4 1 0 4 0 1 1 0 1 1 1 0 0 1 1 0 1 0 1 1 1 1
+1 1 1 1 1 4 4 1 1 1 1 1 1 1 1 1 0 0 1 1 4 0 4 1 4 1 1 1 0 0 1 0 0 1 4 0 1 4 4 0 4 0 0 0 4 1 4 4 4 4 4 1 1 1 0 1 1 1 1 1 0 1 0 1 1 4 4 4 1 4 1 4 1 1 4 1 0 0 4 0 4 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 0 0 0
+1 0 1 1 0 0 1 4 0 4 1 1 0 1 1 1 4 1 1 0 1 1 0 1 1 0 1 1 0 0 0 0 4 0 1 1 1 1 4 4 0 1 1 4 1 1 4 1 0 1 4 0 1 0 0 4 0 0 4 1 4 1 1 1 1 1 1 0 1 1 0 4 1 0 1 0 1 1 1 0 1 1 0 0 1 1 1 0 4 4 1 1 0 1 4 4 4 0 4 1
+0 1 1 1 1 0 1 1 0 1 4 1 1 1 0 0 1 1 4 1 4 0 4 1 1 1 4 1 1 1 4 1 1 1 4 1 4 4 1 1 4 1 4 0 1 1 0 1 1 4 4 4 1 1 4 1 1 4 0 1 4 1 4 1 1 1 4 1 4 1 4 1 1 1 1 1 4 1 1 1 1 1 0 0 4 4 0 1 1 4 1 0 0 0 1 1 4 1 1 1
+1 0 0 1 1 1 4 1 1 1 1 4 1 0 1 0 1 1 0 1 0 1 1 4 1 1 0 1 1 1 1 1 1 1 1 1 4 1 1 4 4 1 1 4 4 1 4 0 1 1 4 0 0 1 0 1 1 1 1 4 1 1 0 1 1 1 1 0 4 1 1 0 1 1 1 0 4 4 0 0 0 1 4 0 1 1 1 1 1 1 0 0 1 0 0 4 1 1 1 4
+1 1 4 0 1 1 1 1 1 1 1 0 1 1 0 1 1 0 0 1 4 4 4 4 1 1 1 1 4 0 0 1 0 0 4 1 1 0 1 1 1 1 1 1 1 1 1 0 4 4 4 1 1 1 4 4 4 0 1 1 0 1 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 4 0 0 1 0 1 1 0 0 0 4 4 1 1 4 0 4 1 1 1 1 1
+1 1 4 1 0 0 1 0 1 1 0 1 1 4 1 0 1 0 1 0 4 1 0 1 1 1 0 4 0 1 0 4 1 1 0 0 1 1 0 1 1 4 0 4 1 0 1 4 0 1 1 1 1 1 4 0 0 1 1 1 1 0 1 0 0 1 1 1 1 1 1 0 4 1 4 1 1 0 1 0 0 1 1 4 0 4 1 1 1 4 1 1 1 4 1 1 1 1 4 1
+0 0 1 1 1 1 1 1 0 1 0 1 4 0 1 0 1 4 4 4 1 0 1 4 4 1 1 4 1 1 0 4 1 1 4 1 0 1 1 1 4 4 0 1 1 1 0 1 4 1 4 1 1 1 4 0 4 1 1 0 0 1 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 4 1 1 0 1 1 4 1 0 0 4 1 4 1 1 0 1 1 1 4
+4 4 4 1 0 0 1 0 0 1 0 1 1 4 1 0 0 1 4 4 1 1 1 1 1 1 0 1 4 1 1 1 1 0 1 4 1 1 1 1 1 1 0 0 0 4 1 1 1 1 0 1 1 1 1 1 1 1 4 1 1 4 1 1 1 1 4 4 1 1 1 1 4 0 0 1 1 4 1 4 1 1 1 0 1 1 1 0 0 4 4 1 1 0 1 4 1 1 4 4
+4 4 1 1 1 0 1 1 1 1 1 1 4 4 4 0 0 4 4 0 1 0 1 1 1 1 1 1 0 0 1 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 1 4 0 4 1 1 4 1 1 4 4 4 1 0 1 1 0 1 0 1 4 0 1 0 1 1 4 0 4 1 4 4 0 1 1 1 1 0 1 1 4 0 4 1 1 1 4 4 1 0 1 1 1 1
+0 1 1 1 1 0 4 1 1 1 1 4 1 0 1 1 0 0 1 1 1 1 1 0 1 1 4 0 1 1 1 0 1 1 1 4 1 0 1 1 1 1 0 1 0 1 1 4 1 1 0 1 0 1 4 4 1 1 0 1 0 4 1 4 1 0 1 1 4 1 1 0 0 0 1 4 1 1 1 1 1 0 1 1 1 0 4 1 1 1 1 0 1 1 1 4 1 0 0 0
+0 4 4 4 0 1 1 4 4 0 0 1 4 1 1 1 1 4 1 1 1 4 1 1 4 4 0 0 1 1 0 1 1 1 1 1 1 1 4 4 0 4 4 0 1 1 4 1 0 4 1 0 1 1 1 1 1 4 4 4 1 1 4 4 1 1 1 1 1 1 4 0 1 1 4 1 1 1 4 0 4 0 1 1 1 1 0 1 1 1 4 1 1 1 4 1 4 1 1 0
+0 0 1 4 0 0 0 1 1 1 0 0 1 0 0 1 1 1 0 1 0 1 1 0 4 1 1 1 1 1 1 1 1 4 4 4 0 4 1 4 1 4 1 1 1 0 4 1 1 1 1 1 0 1 1 1 1 4 4 4 0 4 1 1 1 1 1 4 1 1 1 1 4 4 4 0 0 0 1 0 4 1 1 1 0 0 1 1 1 4 1 1 1 1 0 1 1 4 1 4
+4 1 0 1 1 1 0 1 1 1 0 0 0 1 1 1 0 1 1 1 0 1 1 4 1 1 1 0 4 0 1 1 4 1 1 0 1 0 4 0 1 1 0 0 1 4 1 1 1 4 1 1 1 1 0 1 1 0 1 0 1 1 0 1 4 0 4 1 4 1 0 4 4 0 1 0 1 4 1 4 1 1 1 4 1 0 0 1 1 1 1 0 4 4 1 1 1 4 1 1
+0 1 0 1 0 4 1 1 1 1 1 1 4 0 0 0 4 0 1 0 1 1 4 1 1 1 0 4 1 4 0 1 4 1 1 0 4 1 1 1 4 1 0 1 1 0 0 1 1 1 1 1 1 4 1 1 1 0 0 4 1 1 4 1 1 0 1 1 1 1 0 1 1 0 4 1 0 0 1 1 0 1 0 0 0 0 0 1 4 1 4 1 1 1 1 0 0 1 0 1
+1 4 1 1 4 1 1 1 0 1 1 4 4 1 4 1 4 1 4 1 1 1 1 1 4 4 0 1 4 4 1 0 4 1 0 1 1 0 1 0 1 1 1 4 0 1 0 1 4 1 4 0 0 1 1 1 4 0 4 1 0 1 0 1 0 4 1 0 1 1 4 1 4 0 0 1 1 0 0 0 1 1 1 4 4 4 1 1 0 0 1 1 0 1 1 1 0 1 1 1
+4 0 4 1 4 1 4 0 1 1 1 1 1 1 1 1 4 1 1 1 0 1 4 1 1 0 0 1 1 1 4 4 4 1 0 1 1 4 1 4 0 4 1 1 0 0 1 0 0 1 1 1 0 0 0 1 4 1 4 1 1 1 4 1 1 4 1 1 1 4 1 0 1 0 1 1 0 1 0 1 0 4 1 4 1 0 4 1 4 1 1 0 1 1 1 1 1 1 0 1
+0 4 1 1 4 1 1 1 0 0 1 4 0 4 1 1 4 4 1 1 1 1 1 1 4 1 1 0 1 0 1 1 4 1 4 1 1 4 1 1 4 0 1 1 1 1 1 0 1 4 1 1 1 1 1 1 1 1 4 0 1 0 0 1 0 1 1 4 1 1 1 1 1 1 1 1 1 1 4 4 0 1 4 4 4 0 1 1 1 1 0 0 1 4 0 0 1 0 1 4
+1 1 1 1 1 1 0 4 4 1 1 0 1 0 1 1 4 1 1 1 0 0 4 0 1 1 1 4 1 1 1 1 1 1 1 1 4 0 1 4 1 4 1 0 1 1 1 1 4 1 1 0 0 4 1 1 0 1 1 0 4 1 1 4 1 4 1 1 4 1 1 0 1 1 4 1 4 4 1 4 4 1 1 1 0 1 1 4 1 1 4 1 1 1 0 0 1 1 4 0
+4 1 4 1 4 1 1 1 4 1 1 1 4 1 1 1 1 1 1 1 1 0 4 1 1 1 1 4 1 4 1 1 4 0 1 1 0 1 0 1 4 0 1 1 0 1 1 0 4 4 4 4 1 1 0 0 1 0 1 1 4 1 1 1 1 1 4 4 0 1 0 1 0 0 1 4 1 4 1 4 4 1 1 0 4 1 4 0 1 4 1 0 1 1 0 0 4 4 1 1
+0 1 1 1 0 0 1 0 4 1 4 1 4 1 0 1 1 0 1 1 1 1 0 4 1 0 1 4 1 1 1 0 1 4 0 1 4 1 1 1 1 4 1 1 4 1 4 1 0 4 1 1 4 1 0 0 1 1 1 1 1 1 1 1 1 1 4 1 1 4 1 0 1 1 0 0 1 1 4 1 1 1 4 4 1 1 1 1 1 0 1 4 1 1 1 1 1 4 1 1
+1 1 4 1 1 1 1 1 1 1 1 1 0 0 0 1 1 0 0 1 4 0 1 1 1 0 1 1 1 0 1 4 0 4 0 4 0 1 4 0 1 0 1 1 4 0 1 4 4 1 1 1 1 1 1 4 1 1 0 4 1 0 1 1 1 4 0 1 0 1 1 1 1 1 1 4 1 1 1 1 4 1 1 0 1 4 1 1 0 1 1 1 1 0 1 1 1 1 4 1
+1 0 1 1 1 4 4 4 0 4 1 1 1 4 1 0 1 1 1 0 1 1 0 1 0 1 4 1 1 4 4 1 1 0 1 4 1 4 1 1 1 1 1 0 0 0 4 0 0 0 0 1 4 1 1 1 0 1 1 4 4 0 0 1 0 1 4 1 0 0 1 0 1 1 4 1 4 1 0 1 0 1 0 1 1 1 4 0 1 1 1 4 0 1 4 1 1 1 0 1
+1 1 4 1 0 4 1 1 4 1 1 0 4 0 1 4 4 0 1 1 1 0 4 0 4 4 1 0 1 1 4 1 1 1 1 1 1 0 1 1 1 1 1 4 1 4 4 1 4 4 1 1 1 4 0 1 1 1 0 1 4 4 1 0 1 4 0 0 1 1 1 1 1 4 0 1 1 1 0 4 1 0 1 1 4 1 4 0 0 4 1 1 1 1 0 1 4 0 0 1
+1 1 1 1 1 1 0 4 4 1 1 4 0 1 1 1 1 0 1 1 1 1 1 1 1 1 4 1 1 1 0 1 1 1 1 0 4 1 4 1 1 0 1 0 0 1 1 1 1 4 1 0 4 1 1 4 4 1 4 1 1 0 1 1 1 1 4 4 4 1 4 4 0 4 1 4 1 4 0 1 1 1 1 4 4 1 4 1 1 1 1 4 0 4 1 0 0 1 1 1
+1 1 1 4 0 1 1 1 1 1 4 1 1 4 0 0 4 1 1 1 1 1 4 1 4 1 1 1 1 4 0 4 1 4 1 0 1 4 0 1 0 1 1 1 0 0 1 0 1 1 0 4 1 1 0 1 0 0 1 0 1 4 0 1 1 0 1 0 1 1 1 0 4 1 1 1 1 1 1 4 1 4 1 1 1 0 1 1 1 0 4 1 1 1 1 1 1 1 4 1
+4 4 4 1 1 1 1 1 1 4 0 1 1 0 1 1 1 1 1 0 1 0 4 1 1 1 4 4 1 1 0 4 1 1 4 0 4 1 1 0 4 0 0 4 0 1 0 1 4 1 1 4 1 4 1 1 4 4 4 1 1 1 1 0 1 1 4 4 1 1 4 0 0 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 0 1 1 4 0 1 1 1 1 0 1
+1 1 1 4 1 1 4 1 4 1 4 1 4 1 1 1 4 0 1 0 1 0 1 0 1 0 1 1 0 1 1 4 4 1 1 4 1 4 1 1 0 4 1 1 1 1 1 1 1 1 0 4 0 4 1 1 1 0 1 4 1 0 1 1 1 1 1 1 4 1 1 1 1 4 1 1 1 1 0 1 1 1 0 1 1 1 0 4 1 0 1 1 4 1 1 4 1 4 1 0
+0 1 4 0 1 1 1 1 4 1 4 1 1 4 1 4 1 1 1 1 1 1 1 1 0 1 0 1 1 4 1 1 1 4 1 4 0 4 1 1 1 1 4 4 1 0 4 1 1 1 1 1 1 1 4 1 4 4 1 1 1 1 1 4 4 1 1 1 1 0 4 0 4 4 0 4 4 1 0 0 1 4 1 1 1 1 1 4 4 1 1 0 1 1 4 0 4 4 1 1
+0 4 1 1 1 0 0 4 0 4 1 0 1 0 0 1 0 1 0 1 1 1 1 4 1 1 1 4 1 1 0 0 1 0 1 1 4 0 1 1 4 4 0 1 1 4 1 1 0 0 1 1 0 1 1 0 0 1 0 1 1 4 0 1 1 0 1 4 1 4 0 1 1 4 1 4 1 4 0 0 1 1 1 0 1 1 4 1 1 1 1 1 4 1 1 0 1 1 1 1
+0 1 1 1 4 4 1 1 1 0 4 1 4 4 1 1 4 1 4 1 1 0 4 1 1 1 1 4 1 4 4 1 0 1 1 4 0 1 4 1 1 1 1 4 1 0 4 4 0 1 0 1 1 4 1 1 0 1 4 1 1 1 1 0 4 4 1 1 0 0 1 0 1 1 4 1 0 1 4 4 1 0 1 1 1 1 1 1 1 1 1 1 4 0 1 1 0 4 1 4
+1 4 4 1 4 1 1 1 1 1 4 1 0 1 1 1 0 1 0 1 1 0 1 0 4 4 4 1 1 0 1 1 1 4 0 0 4 1 0 4 1 1 1 1 1 1 1 1 1 0 4 4 1 0 1 1 1 0 4 1 0 4 0 1 1 4 1 0 4 0 4 1 1 4 1 4 1 4 4 0 1 1 1 0 1 0 1 1 4 4 0 1 1 1 0 4 1 0 0 1
+4 1 4 0 0 1 1 0 4 1 4 4 1 1 1 1 1 1 1 1 1 4 1 4 1 0 0 1 4 4 1 1 0 1 1 4 1 1 4 0 4 1 1 1 1 1 4 1 1 1 0 1 1 0 4 1 4 1 0 1 4 1 1 4 4 1 1 0 1 0 1 4 1 4 0 1 4 0 4 1 1 1 1 1 0 1 1 1 1 1 1 4 0 4 1 1 1 0 0 1
+1 1 0 1 4 0 0 1 4 1 1 4 1 4 1 1 0 4 4 0 1 0 0 0 1 1 0 1 4 4 4 1 4 4 4 1 1 1 1 0 0 0 1 1 4 4 1 1 1 4 1 1 1 1 1 1 0 0 1 4 1 1 0 4 0 1 4 1 1 1 0 0 0 1 1 4 4 1 1 0 1 1 0 4 1 4 4 1 1 1 4 1 1 1 1 1 1 0 1 0
+1 4 4 1 4 4 0 1 1 0 0 1 1 1 1 1 0 0 1 1 1 1 4 1 1 0 1 1 4 1 0 1 0 0 1 1 1 1 4 1 4 0 0 1 1 1 4 4 0 1 0 0 1 0 0 1 1 1 4 0 1 1 1 1 1 1 1 4 0 1 1 1 1 1 1 0 1 1 1 0 1 1 4 1 1 1 0 1 4 1 1 1 1 1 1 4 0 1 1 1
+1 0 1 0 0 1 0 0 1 1 4 1 4 1 1 4 1 0 1 1 0 1 0 1 4 0 0 1 1 0 1 1 1 1 0 4 0 1 1 1 4 1 0 1 1 1 4 0 0 4 4 1 0 0 1 1 1 1 0 1 0 0 1 1 4 0 4 1 1 1 1 0 1 1 0 1 1 0 0 1 1 0 1 1 1 4 1 4 4 1 1 1 4 1 4 1 1 1 1 0
+1 4 4 1 0 0 0 1 1 1 1 4 1 0 1 1 1 4 1 1 4 4 0 4 0 4 4 0 1 1 4 1 4 1 0 1 1 1 1 1 4 1 1 1 1 1 1 1 0 4 1 1 1 1 0 4 1 4 1 1 0 1 1 1 1 0 4 1 1 4 0 1 1 0 0 1 1 1 1 4 1 4 1 1 0 0 0 0 1 1 1 1 1 1 1 4 1 4 1 4
+1 4 4 1 0 4 4 4 4 0 4 4 1 4 0 1 1 4 1 1 4 1 0 1 1 1 4 0 0 0 1 1 1 0 0 1 1 1 1 0 1 1 0 1 1 4 1 1 1 1 1 0 1 1 0 0 1 4 4 1 1 0 4 4 4 1 1 0 1 0 1 1 1 0 1 0 1 0 1 1 0 1 0 1 1 1 1 4 4 4 0 0 0 4 1 1 0 1 1 4
+0 1 4 0 0 1 4 1 1 0 1 4 0 1 1 1 1 1 4 4 1 1 1 4 0 0 1 1 0 1 1 0 1 1 4 1 0 1 1 1 1 1 1 0 1 1 0 4 1 1 1 1 1 1 1 4 1 1 1 0 1 0 4 4 4 1 0 1 0 0 0 0 1 4 4 0 4 1 1 0 4 0 1 1 1 1 1 1 1 0 0 1 1 4 0 1 1 1 1 4
+1 4 1 1 4 0 1 0 1 0 1 4 1 1 1 1 1 1 1 0 0 0 0 1 1 1 1 1 0 1 0 1 1 1 0 1 0 0 4 0 1 4 1 0 4 1 1 1 1 1 0 4 1 0 0 4 1 1 1 1 1 0 0 0 1 4 1 0 1 4 0 1 1 1 4 4 0 1 0 4 1 0 1 1 1 1 0 4 0 1 1 1 4 1 0 4 4 1 4 1
+4 1 1 1 1 4 1 1 1 1 4 0 1 1 0 0 4 0 1 1 4 1 1 4 1 1 1 1 1 4 1 4 1 1 1 1 0 1 1 4 1 1 1 1 1 0 1 4 1 0 0 1 1 0 1 1 0 1 1 0 1 1 4 1 1 0 1 1 0 0 0 1 4 1 0 0 0 0 1 4 4 1 1 1 0 1 4 0 1 4 0 0 1 1 0 1 1 1 4 1
+0 1 1 1 1 0 1 1 1 4 1 1 0 1 1 4 4 4 1 1 1 1 0 1 1 1 0 0 4 1 1 1 1 1 0 1 1 1 1 1 1 4 4 1 0 1 0 1 0 1 0 1 1 1 1 1 1 1 0 4 4 0 1 1 0 0 1 1 0 1 1 1 0 1 4 1 1 1 1 0 1 4 1 1 1 1 1 1 0 4 0 1 1 0 0 0 4 1 1 1
+1 4 1 0 4 1 4 1 4 4 1 1 1 1 0 1 1 0 1 1 1 1 1 4 0 0 0 1 1 1 4 1 4 1 4 4 1 0 0 0 1 4 4 1 1 0 1 4 1 1 0 1 1 1 1 0 1 1 1 1 1 4 1 1 0 0 4 1 0 1 4 1 0 1 4 1 0 1 4 1 4 1 1 1 4 4 0 1 1 1 4 1 4 1 1 1 0 0 1 0
+0 0 1 1 1 0 1 0 0 1 1 4 1 1 4 0 1 1 1 1 1 4 1 1 0 0 1 0 1 0 1 4 1 4 1 4 4 0 4 1 0 0 0 1 1 1 1 4 0 1 4 1 1 0 1 1 4 4 0 1 1 1 0 4 1 0 1 4 1 1 0 1 4 1 4 1 1 0 1 0 1 0 1 1 1 1 1 1 4 0 4 0 1 1 4 1 1 1 0 4
+1 4 1 4 4 4 0 1 1 1 1 1 1 1 4 1 0 4 1 1 0 1 1 1 4 0 1 1 0 0 0 0 1 0 1 1 1 0 1 1 1 1 1 1 0 0 1 4 0 1 0 1 4 1 1 4 1 1 4 0 0 1 1 1 1 0 1 1 4 0 1 4 1 1 4 1 0 4 1 1 1 1 0 0 4 0 1 1 1 1 4 0 1 0 1 4 4 0 0 4
+1 4 1 1 4 0 1 1 1 4 1 1 4 4 4 1 0 0 0 4 0 1 0 1 1 0 1 0 1 0 1 4 1 1 0 4 0 1 1 1 1 1 0 1 4 1 1 1 1 1 1 1 1 1 1 1 4 1 1 1 1 1 0 4 1 1 4 4 0 0 1 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 4 4 1 0 1 0 1 1 4 1 0 1 0 1
+0 0 1 1 0 1 4 1 1 1 1 0 1 4 1 1 4 4 0 1 1 4 0 1 4 1 0 1 1 4 0 1 4 4 1 1 4 1 1 1 1 4 1 1 1 4 1 1 1 4 1 4 0 0 4 1 4 1 1 1 1 4 1 0 1 4 1 4 0 1 0 4 0 1 0 4 0 1 1 1 4 1 1 1 4 1 1 1 0 1 1 0 4 1 4 0 1 4 1 1
+4 4 4 1 0 1 1 4 4 4 1 1 1 1 4 0 4 4 0 1 1 0 1 1 1 0 0 1 4 1 1 1 0 1 0 4 1 1 1 0 1 1 1 0 1 4 1 0 1 1 1 4 1 4 1 1 1 1 0 0 0 1 1 4 1 0 1 1 0 0 0 1 0 0 1 0 1 1 1 1 1 0 4 1 1 1 4 0 0 1 1 1 1 4 1 1 1 0 1 1
+4 4 1 4 4 1 1 0 4 1 1 1 4 0 4 1 1 1 0 0 1 1 1 0 1 0 0 1 4 0 1 1 1 4 1 4 4 1 0 1 1 1 1 1 0 1 1 1 4 0 0 0 0 1 4 4 1 1 1 1 0 1 1 1 0 1 1 1 4 4 1 4 1 1 1 1 1 1 4 4 0 1 1 1 1 1 4 1 1 4 1 1 0 1 0 1 4 4 4 1
+4 1 4 1 1 1 1 1 4 4 0 0 1 1 0 4 1 1 4 4 1 1 1 4 1 4 1 1 4 4 1 1 0 0 0 4 1 1 0 1 1 0 4 1 1 1 1 1 1 4 0 1 1 1 1 1 1 1 4 1 0 1 0 1 0 1 1 1 1 0 1 1 0 4 1 4 4 1 0 0 4 1 1 0 0 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1
+1 1 1 1 0 1 0 1 0 0 1 1 4 1 1 1 1 1 4 1 0 1 0 0 1 1 1 1 0 1 4 1 4 4 0 1 1 4 1 1 4 4 0 1 0 1 4 1 1 1 4 4 1 1 0 0 0 0 1 4 1 1 1 0 4 1 1 1 0 4 4 1 1 1 1 1 1 0 1 1 0 1 0 0 4 4 0 1 4 0 0 1 0 1 4 0 0 1 1 4
+0 1 0 1 1 1 1 0 1 4 1 1 1 1 1 1 0 4 4 1 0 1 1 4 1 1 1 1 1 1 0 0 0 4 1 4 1 1 1 1 1 0 4 1 1 1 4 0 1 1 1 1 1 1 4 1 1 0 1 4 1 1 1 0 1 1 1 0 1 1 1 1 0 0 4 0 1 1 1 0 0 4 0 1 1 1 1 1 1 4 1 1 0 4 1 0 0 0 4 0
+
+Current Position: [23][56] - Number of remaining steps: 550
+Current Position: [24][56] - Number of remaining steps: 550
+Current Position: [25][56] - Number of remaining steps: 550
+Current Position: [26][56] - Number of remaining steps: 549
+Current Position: [26][57] - Number of remaining steps: 548
+Current Position: [26][58] - Number of remaining steps: 547
+Current Position: [25][58] - Number of remaining steps: 550
+Current Position: [24][58] - Number of remaining steps: 549
+Current Position: [24][57] - Number of remaining steps: 548
+Current Position: [24][56] - Number of remaining steps: 547
+Current Position: [25][56] - Number of remaining steps: 546
+Current Position: [26][56] - Number of remaining steps: 545
+Current Position: [26][57] - Number of remaining steps: 544
+Current Position: [26][58] - Number of remaining steps: 543
+Current Position: [25][58] - Number of remaining steps: 542
+Current Position: [24][58] - Number of remaining steps: 541
+Current Position: [24][57] - Number of remaining steps: 540
+Current Position: [24][56] - Number of remaining steps: 539
+Current Position: [25][56] - Number of remaining steps: 538
+Current Position: [26][56] - Number of remaining steps: 537
+Current Position: [26][57] - Number of remaining steps: 536
+Current Position: [26][58] - Number of remaining steps: 535
+Current Position: [25][58] - Number of remaining steps: 534
+Current Position: [24][58] - Number of remaining steps: 533
+Current Position: [24][57] - Number of remaining steps: 532
+Current Position: [24][56] - Number of remaining steps: 531
+Current Position: [25][56] - Number of remaining steps: 530
+Current Position: [26][56] - Number of remaining steps: 529
+Current Position: [26][57] - Number of remaining steps: 528
+Current Position: [26][58] - Number of remaining steps: 527
+Current Position: [25][58] - Number of remaining steps: 526
+Current Position: [24][58] - Number of remaining steps: 525
+Current Position: [24][57] - Number of remaining steps: 524
+Current Position: [24][56] - Number of remaining steps: 523
+Current Position: [25][56] - Number of remaining steps: 522
+Current Position: [26][56] - Number of remaining steps: 521
+Current Position: [26][57] - Number of remaining steps: 520
+Current Position: [26][58] - Number of remaining steps: 519
+Current Position: [25][58] - Number of remaining steps: 518
+Current Position: [24][58] - Number of remaining steps: 517
+Current Position: [24][57] - Number of remaining steps: 516
+Current Position: [24][56] - Number of remaining steps: 515
+Current Position: [25][56] - Number of remaining steps: 514
+Current Position: [26][56] - Number of remaining steps: 513
+Current Position: [26][57] - Number of remaining steps: 512
+Current Position: [26][58] - Number of remaining steps: 511
+Current Position: [25][58] - Number of remaining steps: 510
+Current Position: [24][58] - Number of remaining steps: 509
+Current Position: [24][57] - Number of remaining steps: 508
+Current Position: [24][56] - Number of remaining steps: 507
+Current Position: [25][56] - Number of remaining steps: 506
+Current Position: [26][56] - Number of remaining steps: 505
+Current Position: [26][57] - Number of remaining steps: 504
+Current Position: [26][58] - Number of remaining steps: 503
+Current Position: [25][58] - Number of remaining steps: 502
+Current Position: [24][58] - Number of remaining steps: 501
+Current Position: [24][57] - Number of remaining steps: 500
+Current Position: [24][56] - Number of remaining steps: 499
+Current Position: [25][56] - Number of remaining steps: 498
+Current Position: [26][56] - Number of remaining steps: 497
+Current Position: [26][57] - Number of remaining steps: 496
+Current Position: [26][58] - Number of remaining steps: 495
+Current Position: [25][58] - Number of remaining steps: 494
+Current Position: [24][58] - Number of remaining steps: 493
+Current Position: [24][57] - Number of remaining steps: 492
+Current Position: [24][56] - Number of remaining steps: 491
+Current Position: [25][56] - Number of remaining steps: 490
+Current Position: [26][56] - Number of remaining steps: 489
+Current Position: [26][57] - Number of remaining steps: 488
+Current Position: [26][58] - Number of remaining steps: 487
+Current Position: [25][58] - Number of remaining steps: 486
+Current Position: [24][58] - Number of remaining steps: 485
+Current Position: [24][57] - Number of remaining steps: 484
+Current Position: [24][56] - Number of remaining steps: 483
+Current Position: [25][56] - Number of remaining steps: 482
+Current Position: [26][56] - Number of remaining steps: 481
+Current Position: [26][57] - Number of remaining steps: 480
+Current Position: [26][58] - Number of remaining steps: 479
+Current Position: [25][58] - Number of remaining steps: 478
+Current Position: [24][58] - Number of remaining steps: 477
+Current Position: [24][57] - Number of remaining steps: 476
+Current Position: [24][56] - Number of remaining steps: 475
+Current Position: [25][56] - Number of remaining steps: 474
+Current Position: [26][56] - Number of remaining steps: 473
+Current Position: [26][57] - Number of remaining steps: 472
+Current Position: [26][58] - Number of remaining steps: 471
+Current Position: [25][58] - Number of remaining steps: 470
+Current Position: [24][58] - Number of remaining steps: 469
+Current Position: [24][57] - Number of remaining steps: 468
+Current Position: [24][56] - Number of remaining steps: 467
+Current Position: [25][56] - Number of remaining steps: 466
+Current Position: [26][56] - Number of remaining steps: 465
+Current Position: [26][57] - Number of remaining steps: 464
+Current Position: [26][58] - Number of remaining steps: 463
+Current Position: [25][58] - Number of remaining steps: 462
+Current Position: [24][58] - Number of remaining steps: 461
+Current Position: [24][57] - Number of remaining steps: 460
+Current Position: [24][56] - Number of remaining steps: 459
+Current Position: [25][56] - Number of remaining steps: 458
+Current Position: [26][56] - Number of remaining steps: 457
+Current Position: [26][57] - Number of remaining steps: 456
+Current Position: [26][58] - Number of remaining steps: 455
+Current Position: [25][58] - Number of remaining steps: 454
+Current Position: [24][58] - Number of remaining steps: 453
+Current Position: [24][57] - Number of remaining steps: 452
+Current Position: [24][56] - Number of remaining steps: 451
+Current Position: [25][56] - Number of remaining steps: 450
+Current Position: [26][56] - Number of remaining steps: 449
+Current Position: [26][57] - Number of remaining steps: 448
+Current Position: [26][58] - Number of remaining steps: 447
+Current Position: [25][58] - Number of remaining steps: 446
+Current Position: [24][58] - Number of remaining steps: 445
+Current Position: [24][57] - Number of remaining steps: 444
+Current Position: [24][56] - Number of remaining steps: 443
+Current Position: [25][56] - Number of remaining steps: 442
+Current Position: [26][56] - Number of remaining steps: 441
+Current Position: [26][57] - Number of remaining steps: 440
+Current Position: [26][58] - Number of remaining steps: 439
+Current Position: [25][58] - Number of remaining steps: 438
+Current Position: [24][58] - Number of remaining steps: 437
+Current Position: [24][57] - Number of remaining steps: 436
+Current Position: [24][56] - Number of remaining steps: 435
+Current Position: [25][56] - Number of remaining steps: 434
+Current Position: [26][56] - Number of remaining steps: 433
+Current Position: [26][57] - Number of remaining steps: 432
+Current Position: [26][58] - Number of remaining steps: 431
+Current Position: [25][58] - Number of remaining steps: 430
+Current Position: [24][58] - Number of remaining steps: 429
+Current Position: [24][57] - Number of remaining steps: 428
+Current Position: [24][56] - Number of remaining steps: 427
+Current Position: [25][56] - Number of remaining steps: 426
+Current Position: [26][56] - Number of remaining steps: 425
+Current Position: [26][57] - Number of remaining steps: 424
+Current Position: [26][58] - Number of remaining steps: 423
+Current Position: [25][58] - Number of remaining steps: 422
+Current Position: [24][58] - Number of remaining steps: 421
+Current Position: [24][57] - Number of remaining steps: 420
+Current Position: [24][56] - Number of remaining steps: 419
+Current Position: [25][56] - Number of remaining steps: 418
+Current Position: [26][56] - Number of remaining steps: 417
+Current Position: [26][57] - Number of remaining steps: 416
+Current Position: [26][58] - Number of remaining steps: 415
+Current Position: [25][58] - Number of remaining steps: 414
+Current Position: [24][58] - Number of remaining steps: 413
+Current Position: [24][57] - Number of remaining steps: 412
+Current Position: [24][56] - Number of remaining steps: 411
+Current Position: [25][56] - Number of remaining steps: 410
+Current Position: [26][56] - Number of remaining steps: 409
+Current Position: [26][57] - Number of remaining steps: 408
+Current Position: [26][58] - Number of remaining steps: 407
+Current Position: [25][58] - Number of remaining steps: 406
+Current Position: [24][58] - Number of remaining steps: 405
+Current Position: [24][57] - Number of remaining steps: 404
+Current Position: [24][56] - Number of remaining steps: 403
+Current Position: [25][56] - Number of remaining steps: 402
+Current Position: [26][56] - Number of remaining steps: 401
+Current Position: [26][57] - Number of remaining steps: 400
+Current Position: [26][58] - Number of remaining steps: 399
+Current Position: [25][58] - Number of remaining steps: 398
+Current Position: [24][58] - Number of remaining steps: 397
+Current Position: [24][57] - Number of remaining steps: 396
+Current Position: [24][56] - Number of remaining steps: 395
+Current Position: [25][56] - Number of remaining steps: 394
+Current Position: [26][56] - Number of remaining steps: 393
+Current Position: [26][57] - Number of remaining steps: 392
+Current Position: [26][58] - Number of remaining steps: 391
+Current Position: [25][58] - Number of remaining steps: 390
+Current Position: [24][58] - Number of remaining steps: 389
+Current Position: [24][57] - Number of remaining steps: 388
+Current Position: [24][56] - Number of remaining steps: 387
+Current Position: [25][56] - Number of remaining steps: 386
+Current Position: [26][56] - Number of remaining steps: 385
+Current Position: [26][57] - Number of remaining steps: 384
+Current Position: [26][58] - Number of remaining steps: 383
+Current Position: [25][58] - Number of remaining steps: 382
+Current Position: [24][58] - Number of remaining steps: 381
+Current Position: [24][57] - Number of remaining steps: 380
+Current Position: [24][56] - Number of remaining steps: 379
+Current Position: [25][56] - Number of remaining steps: 378
+Current Position: [26][56] - Number of remaining steps: 377
+Current Position: [26][57] - Number of remaining steps: 376
+Current Position: [26][58] - Number of remaining steps: 375
+Current Position: [25][58] - Number of remaining steps: 374
+Current Position: [24][58] - Number of remaining steps: 373
+Current Position: [24][57] - Number of remaining steps: 372
+Current Position: [24][56] - Number of remaining steps: 371
+Current Position: [25][56] - Number of remaining steps: 370
+Current Position: [26][56] - Number of remaining steps: 369
+Current Position: [26][57] - Number of remaining steps: 368
+Current Position: [26][58] - Number of remaining steps: 367
+Current Position: [25][58] - Number of remaining steps: 366
+Current Position: [24][58] - Number of remaining steps: 365
+Current Position: [24][57] - Number of remaining steps: 364
+Current Position: [24][56] - Number of remaining steps: 363
+Current Position: [25][56] - Number of remaining steps: 362
+Current Position: [26][56] - Number of remaining steps: 361
+Current Position: [26][57] - Number of remaining steps: 360
+Current Position: [26][58] - Number of remaining steps: 359
+Current Position: [25][58] - Number of remaining steps: 358
+Current Position: [24][58] - Number of remaining steps: 357
+Current Position: [24][57] - Number of remaining steps: 356
+Current Position: [24][56] - Number of remaining steps: 355
+Current Position: [25][56] - Number of remaining steps: 354
+Current Position: [26][56] - Number of remaining steps: 353
+Current Position: [26][57] - Number of remaining steps: 352
+Current Position: [26][58] - Number of remaining steps: 351
+Current Position: [25][58] - Number of remaining steps: 350
+Current Position: [24][58] - Number of remaining steps: 349
+Current Position: [24][57] - Number of remaining steps: 348
+Current Position: [24][56] - Number of remaining steps: 347
+Current Position: [25][56] - Number of remaining steps: 346
+Current Position: [26][56] - Number of remaining steps: 345
+Current Position: [26][57] - Number of remaining steps: 344
+Current Position: [26][58] - Number of remaining steps: 343
+Current Position: [25][58] - Number of remaining steps: 342
+Current Position: [24][58] - Number of remaining steps: 341
+Current Position: [24][57] - Number of remaining steps: 340
+Current Position: [24][56] - Number of remaining steps: 339
+Current Position: [25][56] - Number of remaining steps: 338
+Current Position: [26][56] - Number of remaining steps: 337
+Current Position: [26][57] - Number of remaining steps: 336
+Current Position: [26][58] - Number of remaining steps: 335
+Current Position: [25][58] - Number of remaining steps: 334
+Current Position: [24][58] - Number of remaining steps: 333
+Current Position: [24][57] - Number of remaining steps: 332
+Current Position: [24][56] - Number of remaining steps: 331
+Current Position: [25][56] - Number of remaining steps: 330
+Current Position: [26][56] - Number of remaining steps: 329
+Current Position: [26][57] - Number of remaining steps: 328
+Current Position: [26][58] - Number of remaining steps: 327
+Current Position: [25][58] - Number of remaining steps: 326
+Current Position: [24][58] - Number of remaining steps: 325
+Current Position: [24][57] - Number of remaining steps: 324
+Current Position: [24][56] - Number of remaining steps: 323
+Current Position: [25][56] - Number of remaining steps: 322
+Current Position: [26][56] - Number of remaining steps: 321
+Current Position: [26][57] - Number of remaining steps: 320
+Current Position: [26][58] - Number of remaining steps: 319
+Current Position: [25][58] - Number of remaining steps: 318
+Current Position: [24][58] - Number of remaining steps: 317
+Current Position: [24][57] - Number of remaining steps: 316
+Current Position: [24][56] - Number of remaining steps: 315
+Current Position: [25][56] - Number of remaining steps: 314
+Current Position: [26][56] - Number of remaining steps: 313
+Current Position: [26][57] - Number of remaining steps: 312
+Current Position: [26][58] - Number of remaining steps: 311
+Current Position: [25][58] - Number of remaining steps: 310
+Current Position: [24][58] - Number of remaining steps: 309
+Current Position: [24][57] - Number of remaining steps: 308
+Current Position: [24][56] - Number of remaining steps: 307
+Current Position: [25][56] - Number of remaining steps: 306
+Current Position: [26][56] - Number of remaining steps: 305
+Current Position: [26][57] - Number of remaining steps: 304
+Current Position: [26][58] - Number of remaining steps: 303
+Current Position: [25][58] - Number of remaining steps: 302
+Current Position: [24][58] - Number of remaining steps: 301
+Current Position: [24][57] - Number of remaining steps: 300
+Current Position: [24][56] - Number of remaining steps: 299
+Current Position: [25][56] - Number of remaining steps: 298
+Current Position: [26][56] - Number of remaining steps: 297
+Current Position: [26][57] - Number of remaining steps: 296
+Current Position: [26][58] - Number of remaining steps: 295
+Current Position: [25][58] - Number of remaining steps: 294
+Current Position: [24][58] - Number of remaining steps: 293
+Current Position: [24][57] - Number of remaining steps: 292
+Current Position: [24][56] - Number of remaining steps: 291
+Current Position: [25][56] - Number of remaining steps: 290
+Current Position: [26][56] - Number of remaining steps: 289
+Current Position: [26][57] - Number of remaining steps: 288
+Current Position: [26][58] - Number of remaining steps: 287
+Current Position: [25][58] - Number of remaining steps: 286
+Current Position: [24][58] - Number of remaining steps: 285
+Current Position: [24][57] - Number of remaining steps: 284
+Current Position: [24][56] - Number of remaining steps: 283
+Current Position: [25][56] - Number of remaining steps: 282
+Current Position: [26][56] - Number of remaining steps: 281
+Current Position: [26][57] - Number of remaining steps: 280
+Current Position: [26][58] - Number of remaining steps: 279
+Current Position: [25][58] - Number of remaining steps: 278
+Current Position: [24][58] - Number of remaining steps: 277
+Current Position: [24][57] - Number of remaining steps: 276
+Current Position: [24][56] - Number of remaining steps: 275
+Current Position: [25][56] - Number of remaining steps: 274
+Current Position: [26][56] - Number of remaining steps: 273
+Current Position: [26][57] - Number of remaining steps: 272
+Current Position: [26][58] - Number of remaining steps: 271
+Current Position: [25][58] - Number of remaining steps: 270
+Current Position: [24][58] - Number of remaining steps: 269
+Current Position: [24][57] - Number of remaining steps: 268
+Current Position: [24][56] - Number of remaining steps: 267
+Current Position: [25][56] - Number of remaining steps: 266
+Current Position: [26][56] - Number of remaining steps: 265
+Current Position: [26][57] - Number of remaining steps: 264
+Current Position: [26][58] - Number of remaining steps: 263
+Current Position: [25][58] - Number of remaining steps: 262
+Current Position: [24][58] - Number of remaining steps: 261
+Current Position: [24][57] - Number of remaining steps: 260
+Current Position: [24][56] - Number of remaining steps: 259
+Current Position: [25][56] - Number of remaining steps: 258
+Current Position: [26][56] - Number of remaining steps: 257
+Current Position: [26][57] - Number of remaining steps: 256
+Current Position: [26][58] - Number of remaining steps: 255
+Current Position: [25][58] - Number of remaining steps: 254
+Current Position: [24][58] - Number of remaining steps: 253
+Current Position: [24][57] - Number of remaining steps: 252
+Current Position: [24][56] - Number of remaining steps: 251
+Current Position: [25][56] - Number of remaining steps: 250
+Current Position: [26][56] - Number of remaining steps: 249
+Current Position: [26][57] - Number of remaining steps: 248
+Current Position: [26][58] - Number of remaining steps: 247
+Current Position: [25][58] - Number of remaining steps: 246
+Current Position: [24][58] - Number of remaining steps: 245
+Current Position: [24][57] - Number of remaining steps: 244
+Current Position: [24][56] - Number of remaining steps: 243
+Current Position: [25][56] - Number of remaining steps: 242
+Current Position: [26][56] - Number of remaining steps: 241
+Current Position: [26][57] - Number of remaining steps: 240
+Current Position: [26][58] - Number of remaining steps: 239
+Current Position: [25][58] - Number of remaining steps: 238
+Current Position: [24][58] - Number of remaining steps: 237
+Current Position: [24][57] - Number of remaining steps: 236
+Current Position: [24][56] - Number of remaining steps: 235
+Current Position: [25][56] - Number of remaining steps: 234
+Current Position: [26][56] - Number of remaining steps: 233
+Current Position: [26][57] - Number of remaining steps: 232
+Current Position: [26][58] - Number of remaining steps: 231
+Current Position: [25][58] - Number of remaining steps: 230
+Current Position: [24][58] - Number of remaining steps: 229
+Current Position: [24][57] - Number of remaining steps: 228
+Current Position: [24][56] - Number of remaining steps: 227
+Current Position: [25][56] - Number of remaining steps: 226
+Current Position: [26][56] - Number of remaining steps: 225
+Current Position: [26][57] - Number of remaining steps: 224
+Current Position: [26][58] - Number of remaining steps: 223
+Current Position: [25][58] - Number of remaining steps: 222
+Current Position: [24][58] - Number of remaining steps: 221
+Current Position: [24][57] - Number of remaining steps: 220
+Current Position: [24][56] - Number of remaining steps: 219
+Current Position: [25][56] - Number of remaining steps: 218
+Current Position: [26][56] - Number of remaining steps: 217
+Current Position: [26][57] - Number of remaining steps: 216
+Current Position: [26][58] - Number of remaining steps: 215
+Current Position: [25][58] - Number of remaining steps: 214
+Current Position: [24][58] - Number of remaining steps: 213
+Current Position: [24][57] - Number of remaining steps: 212
+Current Position: [24][56] - Number of remaining steps: 211
+Current Position: [25][56] - Number of remaining steps: 210
+Current Position: [26][56] - Number of remaining steps: 209
+Current Position: [26][57] - Number of remaining steps: 208
+Current Position: [26][58] - Number of remaining steps: 207
+Current Position: [25][58] - Number of remaining steps: 206
+Current Position: [24][58] - Number of remaining steps: 205
+Current Position: [24][57] - Number of remaining steps: 204
+Current Position: [24][56] - Number of remaining steps: 203
+Current Position: [25][56] - Number of remaining steps: 202
+Current Position: [26][56] - Number of remaining steps: 201
+Current Position: [26][57] - Number of remaining steps: 200
+Current Position: [26][58] - Number of remaining steps: 199
+Current Position: [25][58] - Number of remaining steps: 198
+Current Position: [24][58] - Number of remaining steps: 197
+Current Position: [24][57] - Number of remaining steps: 196
+Current Position: [24][56] - Number of remaining steps: 195
+Current Position: [25][56] - Number of remaining steps: 194
+Current Position: [26][56] - Number of remaining steps: 193
+Current Position: [26][57] - Number of remaining steps: 192
+Current Position: [26][58] - Number of remaining steps: 191
+Current Position: [25][58] - Number of remaining steps: 190
+Current Position: [24][58] - Number of remaining steps: 189
+Current Position: [24][57] - Number of remaining steps: 188
+Current Position: [24][56] - Number of remaining steps: 187
+Current Position: [25][56] - Number of remaining steps: 186
+Current Position: [26][56] - Number of remaining steps: 185
+Current Position: [26][57] - Number of remaining steps: 184
+Current Position: [26][58] - Number of remaining steps: 183
+Current Position: [25][58] - Number of remaining steps: 182
+Current Position: [24][58] - Number of remaining steps: 181
+Current Position: [24][57] - Number of remaining steps: 180
+Current Position: [24][56] - Number of remaining steps: 179
+Current Position: [25][56] - Number of remaining steps: 178
+Current Position: [26][56] - Number of remaining steps: 177
+Current Position: [26][57] - Number of remaining steps: 176
+Current Position: [26][58] - Number of remaining steps: 175
+Current Position: [25][58] - Number of remaining steps: 174
+Current Position: [24][58] - Number of remaining steps: 173
+Current Position: [24][57] - Number of remaining steps: 172
+Current Position: [24][56] - Number of remaining steps: 171
+Current Position: [25][56] - Number of remaining steps: 170
+Current Position: [26][56] - Number of remaining steps: 169
+Current Position: [26][57] - Number of remaining steps: 168
+Current Position: [26][58] - Number of remaining steps: 167
+Current Position: [25][58] - Number of remaining steps: 166
+Current Position: [24][58] - Number of remaining steps: 165
+Current Position: [24][57] - Number of remaining steps: 164
+Current Position: [24][56] - Number of remaining steps: 163
+Current Position: [25][56] - Number of remaining steps: 162
+Current Position: [26][56] - Number of remaining steps: 161
+Current Position: [26][57] - Number of remaining steps: 160
+Current Position: [26][58] - Number of remaining steps: 159
+Current Position: [25][58] - Number of remaining steps: 158
+Current Position: [24][58] - Number of remaining steps: 157
+Current Position: [24][57] - Number of remaining steps: 156
+Current Position: [24][56] - Number of remaining steps: 155
+Current Position: [25][56] - Number of remaining steps: 154
+Current Position: [26][56] - Number of remaining steps: 153
+Current Position: [26][57] - Number of remaining steps: 152
+Current Position: [26][58] - Number of remaining steps: 151
+Current Position: [25][58] - Number of remaining steps: 150
+Current Position: [24][58] - Number of remaining steps: 149
+Current Position: [24][57] - Number of remaining steps: 148
+Current Position: [24][56] - Number of remaining steps: 147
+Current Position: [25][56] - Number of remaining steps: 146
+Current Position: [26][56] - Number of remaining steps: 145
+Current Position: [26][57] - Number of remaining steps: 144
+Current Position: [26][58] - Number of remaining steps: 143
+Current Position: [25][58] - Number of remaining steps: 142
+Current Position: [24][58] - Number of remaining steps: 141
+Current Position: [24][57] - Number of remaining steps: 140
+Current Position: [24][56] - Number of remaining steps: 139
+Current Position: [25][56] - Number of remaining steps: 138
+Current Position: [26][56] - Number of remaining steps: 137
+Current Position: [26][57] - Number of remaining steps: 136
+Current Position: [26][58] - Number of remaining steps: 135
+Current Position: [25][58] - Number of remaining steps: 134
+Current Position: [24][58] - Number of remaining steps: 133
+Current Position: [24][57] - Number of remaining steps: 132
+Current Position: [24][56] - Number of remaining steps: 131
+Current Position: [25][56] - Number of remaining steps: 130
+Current Position: [26][56] - Number of remaining steps: 129
+Current Position: [26][57] - Number of remaining steps: 128
+Current Position: [26][58] - Number of remaining steps: 127
+Current Position: [25][58] - Number of remaining steps: 126
+Current Position: [24][58] - Number of remaining steps: 125
+Current Position: [24][57] - Number of remaining steps: 124
+Current Position: [24][56] - Number of remaining steps: 123
+Current Position: [25][56] - Number of remaining steps: 122
+Current Position: [26][56] - Number of remaining steps: 121
+Current Position: [26][57] - Number of remaining steps: 120
+Current Position: [26][58] - Number of remaining steps: 119
+Current Position: [25][58] - Number of remaining steps: 118
+Current Position: [24][58] - Number of remaining steps: 117
+Current Position: [24][57] - Number of remaining steps: 116
+Current Position: [24][56] - Number of remaining steps: 115
+Current Position: [25][56] - Number of remaining steps: 114
+Current Position: [26][56] - Number of remaining steps: 113
+Current Position: [26][57] - Number of remaining steps: 112
+Current Position: [26][58] - Number of remaining steps: 111
+Current Position: [25][58] - Number of remaining steps: 110
+Current Position: [24][58] - Number of remaining steps: 109
+Current Position: [24][57] - Number of remaining steps: 108
+Current Position: [24][56] - Number of remaining steps: 107
+Current Position: [25][56] - Number of remaining steps: 106
+Current Position: [26][56] - Number of remaining steps: 105
+Current Position: [26][57] - Number of remaining steps: 104
+Current Position: [26][58] - Number of remaining steps: 103
+Current Position: [25][58] - Number of remaining steps: 102
+Current Position: [24][58] - Number of remaining steps: 101
+Current Position: [24][57] - Number of remaining steps: 100
+Current Position: [24][56] - Number of remaining steps: 99
+Current Position: [25][56] - Number of remaining steps: 98
+Current Position: [26][56] - Number of remaining steps: 97
+Current Position: [26][57] - Number of remaining steps: 96
+Current Position: [26][58] - Number of remaining steps: 95
+Current Position: [25][58] - Number of remaining steps: 94
+Current Position: [24][58] - Number of remaining steps: 93
+Current Position: [24][57] - Number of remaining steps: 92
+Current Position: [24][56] - Number of remaining steps: 91
+Current Position: [25][56] - Number of remaining steps: 90
+Current Position: [26][56] - Number of remaining steps: 89
+Current Position: [26][57] - Number of remaining steps: 88
+Current Position: [26][58] - Number of remaining steps: 87
+Current Position: [25][58] - Number of remaining steps: 86
+Current Position: [24][58] - Number of remaining steps: 85
+Current Position: [24][57] - Number of remaining steps: 84
+Current Position: [24][56] - Number of remaining steps: 83
+Current Position: [25][56] - Number of remaining steps: 82
+Current Position: [26][56] - Number of remaining steps: 81
+Current Position: [26][57] - Number of remaining steps: 80
+Current Position: [26][58] - Number of remaining steps: 79
+Current Position: [25][58] - Number of remaining steps: 78
+Current Position: [24][58] - Number of remaining steps: 77
+Current Position: [24][57] - Number of remaining steps: 76
+Current Position: [24][56] - Number of remaining steps: 75
+Current Position: [25][56] - Number of remaining steps: 74
+Current Position: [26][56] - Number of remaining steps: 73
+Current Position: [26][57] - Number of remaining steps: 72
+Current Position: [26][58] - Number of remaining steps: 71
+Current Position: [25][58] - Number of remaining steps: 70
+Current Position: [24][58] - Number of remaining steps: 69
+Current Position: [24][57] - Number of remaining steps: 68
+Current Position: [24][56] - Number of remaining steps: 67
+Current Position: [25][56] - Number of remaining steps: 66
+Current Position: [26][56] - Number of remaining steps: 65
+Current Position: [26][57] - Number of remaining steps: 64
+Current Position: [26][58] - Number of remaining steps: 63
+Current Position: [25][58] - Number of remaining steps: 62
+Current Position: [24][58] - Number of remaining steps: 61
+Current Position: [24][57] - Number of remaining steps: 60
+Current Position: [24][56] - Number of remaining steps: 59
+Current Position: [25][56] - Number of remaining steps: 58
+Current Position: [26][56] - Number of remaining steps: 57
+Current Position: [26][57] - Number of remaining steps: 56
+Current Position: [26][58] - Number of remaining steps: 55
+Current Position: [25][58] - Number of remaining steps: 54
+Current Position: [24][58] - Number of remaining steps: 53
+Current Position: [24][57] - Number of remaining steps: 52
+Current Position: [24][56] - Number of remaining steps: 51
+Current Position: [25][56] - Number of remaining steps: 50
+Current Position: [26][56] - Number of remaining steps: 49
+Current Position: [26][57] - Number of remaining steps: 48
+Current Position: [26][58] - Number of remaining steps: 47
+Current Position: [25][58] - Number of remaining steps: 46
+Current Position: [24][58] - Number of remaining steps: 45
+Current Position: [24][57] - Number of remaining steps: 44
+Current Position: [24][56] - Number of remaining steps: 43
+Current Position: [25][56] - Number of remaining steps: 42
+Current Position: [26][56] - Number of remaining steps: 41
+Current Position: [26][57] - Number of remaining steps: 40
+Current Position: [26][58] - Number of remaining steps: 39
+Current Position: [25][58] - Number of remaining steps: 38
+Current Position: [24][58] - Number of remaining steps: 37
+Current Position: [24][57] - Number of remaining steps: 36
+Current Position: [24][56] - Number of remaining steps: 35
+Current Position: [25][56] - Number of remaining steps: 34
+Current Position: [26][56] - Number of remaining steps: 33
+Current Position: [26][57] - Number of remaining steps: 32
+Current Position: [26][58] - Number of remaining steps: 31
+Current Position: [25][58] - Number of remaining steps: 30
+Current Position: [24][58] - Number of remaining steps: 29
+Current Position: [24][57] - Number of remaining steps: 28
+Current Position: [24][56] - Number of remaining steps: 27
+Current Position: [25][56] - Number of remaining steps: 26
+Current Position: [26][56] - Number of remaining steps: 25
+Current Position: [26][57] - Number of remaining steps: 24
+Current Position: [26][58] - Number of remaining steps: 23
+Current Position: [25][58] - Number of remaining steps: 22
+Current Position: [24][58] - Number of remaining steps: 21
+Current Position: [24][57] - Number of remaining steps: 20
+Current Position: [24][56] - Number of remaining steps: 19
+Current Position: [25][56] - Number of remaining steps: 18
+Current Position: [26][56] - Number of remaining steps: 17
+Current Position: [26][57] - Number of remaining steps: 16
+Current Position: [26][58] - Number of remaining steps: 15
+Current Position: [25][58] - Number of remaining steps: 14
+Current Position: [24][58] - Number of remaining steps: 13
+Current Position: [24][57] - Number of remaining steps: 12
+Current Position: [24][56] - Number of remaining steps: 11
+Current Position: [25][56] - Number of remaining steps: 10
+Current Position: [26][56] - Number of remaining steps: 9
+Current Position: [26][57] - Number of remaining steps: 8
+Current Position: [26][58] - Number of remaining steps: 7
+Current Position: [25][58] - Number of remaining steps: 6
+Current Position: [24][58] - Number of remaining steps: 5
+Current Position: [24][57] - Number of remaining steps: 4
+Current Position: [24][56] - Number of remaining steps: 3
+Current Position: [25][56] - Number of remaining steps: 2
+Current Position: [26][56] - Number of remaining steps: 1
+Current Position: [26][57] - Number of remaining steps: 0
+Steps: -1

@@ -1,0 +1,6 @@
+d
+a
+3 21 h This is another command with over seventy characters to demonstrate how the command should cut off at 70 characters and that the rest of the line should be ignored
+d
+q
+

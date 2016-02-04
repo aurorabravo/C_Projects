@@ -1,0 +1,12 @@
+test_0: Read file and list by due date 
+test_1: Read file and list by priority 
+test_2: Read file and add a new reminder
+test_3: Read file and remove a reminder 
+test_4: Read file and add invalid reminders
+test_5: Read file and handle remove edge cases 
+test_6: Read file with complex scenario 
+test_7: Command test 
+test_8: Reminders with over 70 characters
+test_9: File with invalid lines 
+test_10: File doesn't exist - exit code=1 
+test_11: Run without a command line argument - exit code=1

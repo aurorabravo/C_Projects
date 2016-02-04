@@ -1,0 +1,24 @@
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 4 1 1 1 1 1
+1 4 4 2 1 1 0 0
+1 1 0 0 0 0 0 3
+1 1 0 4 1 1 1 1
+1 1 1 1 1 1 1 1
+
+Current Position: [4][3] - Number of remaining steps: 10
+Current Position: [4][2] - Number of remaining steps: 10
+Current Position: [4][1] - Number of remaining steps: 10
+Current Position: [5][1] - Number of remaining steps: 9
+Current Position: [6][1] - Number of remaining steps: 8
+Current Position: [7][1] - Number of remaining steps: 7
+Current Position: [7][2] - Number of remaining steps: 6
+Current Position: [7][3] - Number of remaining steps: 5
+Current Position: [6][3] - Number of remaining steps: 10
+Current Position: [6][4] - Number of remaining steps: 9
+Current Position: [6][5] - Number of remaining steps: 8
+Current Position: [6][6] - Number of remaining steps: 7
+Current Position: [6][7] - Number of remaining steps: 6
+Current Position: [5][7] - Number of remaining steps: 5
+Steps: 13

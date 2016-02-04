@@ -1,0 +1,22 @@
+test_0: Valid 3x3 grid with 3 max steps
+test_1: Valid 4x8 grid with 7 max steps
+test_2: Valid 5x8 grid with 6 max steps
+test_3: Valid 7x8 grid with 6 max steps
+test_4: Valid 8x8 grid with 10 max steps
+test_5: Valid 8x8 grid with 6 max steps
+test_6: Valid 100x100 grid with 550 max steps
+test_7: File doesn't exist - exit code=1
+test_8: Invalid max steps - too few - exit code=1
+test_9: Invalid max steps - not followed by new line character - exit code=1
+test_10: Invalid size - missing col - exit code=1
+test_11: Invalid size - zero row - exit code=1
+test_12: Invalid size - negative col - exit code=1
+test_13: Invalid column - missing last element in row - exit code=1
+test_14: Invalid row - extra row for given size - exit code=1
+test_15: Invalid value - 7 in one cell - exit code=1
+test_16: Invalid column - extra element in row - exit code=1
+test_17: Invalid value - a in one cell - exit code=1
+test_18: Map error - missing start - exit code=1
+test_19: Map error - missing exit - exit code=1
+test_20: Map error - too many food cells - exit code=1
+test_21: Run without a command line argument - exit code=1
